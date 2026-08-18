@@ -1,0 +1,30 @@
+# Model files (uploaded to Hugging Face)
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs (optional - remove this line if you want to track logs)
+logs/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+finetuning_and_inferencing_using_indictrans2_models/
